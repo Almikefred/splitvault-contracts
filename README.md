@@ -140,3 +140,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-106 -->
 - #106: `rebalance_recipients` Fails to Remove De-Allocated Recipients from `recipient_invoice_ids` Index
+
+<!-- handsoff-issue-108 -->
+- #108: Conflicting Template Architectures Between Symbol-Keyed and ID-Counter Invoice Templates
