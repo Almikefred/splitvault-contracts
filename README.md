@@ -140,3 +140,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-89 -->
 - #89: Hardcoded Maximum Storage Key Enum Variants Constraining Extensibility
+
+<!-- handsoff-issue-90 -->
+- #90: Inconsistent Ledger Rent Bump Strategy Across Temporary and Persistent Storage
