@@ -143,3 +143,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-6 -->
 - #6: Pool Pay Cross-Invoice Limit Bypass for Blocked and Velocity-Capped Payers
+
+<!-- handsoff-issue-63 -->
+- #63: Incomplete State Clean-up During Emergency Circuit Breaker Rollbacks
