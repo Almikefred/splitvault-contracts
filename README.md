@@ -143,3 +143,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-66 -->
 - #66: Unvalidated Cross-Chain Attestation Signatures in `bridge_pay`
+
+<!-- handsoff-issue-68 -->
+- #68: Attestation Hash Collision in Proof-of-Payment Verification
