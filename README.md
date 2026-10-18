@@ -146,3 +146,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-63 -->
 - #63: Incomplete State Clean-up During Emergency Circuit Breaker Rollbacks
+
+<!-- handsoff-issue-64 -->
+- #64: Silent Payout Loss in `reveal_confidential_payment` Due to Omission of Shard Storage
