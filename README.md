@@ -140,3 +140,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-5 -->
 - #5: Missing Authorization for Dynamic Payout Address Modification in `rotate_recipient_address`
+
+<!-- handsoff-issue-6 -->
+- #6: Pool Pay Cross-Invoice Limit Bypass for Blocked and Velocity-Capped Payers
