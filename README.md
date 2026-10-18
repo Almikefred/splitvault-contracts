@@ -140,3 +140,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 <!-- handsoff-issue-65 -->
 - #65: Payer Lockup of Channel Funds and Unbounded Custody in `channel_pay`
+
+<!-- handsoff-issue-66 -->
+- #66: Unvalidated Cross-Chain Attestation Signatures in `bridge_pay`
