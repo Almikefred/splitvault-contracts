@@ -138,11 +138,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 ## Handsoff notes
 
-<!-- handsoff-issue-65 -->
-- #65: Payer Lockup of Channel Funds and Unbounded Custody in `channel_pay`
+<!-- handsoff-issue-5 -->
+- #5: Missing Authorization for Dynamic Payout Address Modification in `rotate_recipient_address`
 
-<!-- handsoff-issue-66 -->
-- #66: Unvalidated Cross-Chain Attestation Signatures in `bridge_pay`
+<!-- handsoff-issue-6 -->
+- #6: Pool Pay Cross-Invoice Limit Bypass for Blocked and Velocity-Capped Payers
 
-<!-- handsoff-issue-68 -->
-- #68: Attestation Hash Collision in Proof-of-Payment Verification
+<!-- handsoff-issue-63 -->
+- #63: Incomplete State Clean-up During Emergency Circuit Breaker Rollbacks
+
+<!-- handsoff-issue-64 -->
+- #64: Silent Payout Loss in `reveal_confidential_payment` Due to Omission of Shard Storage
