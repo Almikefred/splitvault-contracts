@@ -138,11 +138,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 ## Handsoff notes
 
-<!-- handsoff-issue-89 -->
-- #89: Hardcoded Maximum Storage Key Enum Variants Constraining Extensibility
+<!-- handsoff-issue-5 -->
+- #5: Missing Authorization for Dynamic Payout Address Modification in `rotate_recipient_address`
 
-<!-- handsoff-issue-90 -->
-- #90: Inconsistent Ledger Rent Bump Strategy Across Temporary and Persistent Storage
+<!-- handsoff-issue-6 -->
+- #6: Pool Pay Cross-Invoice Limit Bypass for Blocked and Velocity-Capped Payers
 
-<!-- handsoff-issue-92 -->
-- #92: Unbounded Storage Rent Consumption by Soft-Deleted Invoice Tombstones
+<!-- handsoff-issue-63 -->
+- #63: Incomplete State Clean-up During Emergency Circuit Breaker Rollbacks
+
+<!-- handsoff-issue-64 -->
+- #64: Silent Payout Loss in `reveal_confidential_payment` Due to Omission of Shard Storage
