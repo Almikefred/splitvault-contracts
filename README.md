@@ -138,8 +138,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full contribution guide.
 
 ## Handsoff notes
 
-<!-- handsoff-issue-106 -->
-- #106: `rebalance_recipients` Fails to Remove De-Allocated Recipients from `recipient_invoice_ids` Index
+<!-- handsoff-issue-5 -->
+- #5: Missing Authorization for Dynamic Payout Address Modification in `rotate_recipient_address`
 
-<!-- handsoff-issue-108 -->
-- #108: Conflicting Template Architectures Between Symbol-Keyed and ID-Counter Invoice Templates
+<!-- handsoff-issue-6 -->
+- #6: Pool Pay Cross-Invoice Limit Bypass for Blocked and Velocity-Capped Payers
+
+<!-- handsoff-issue-63 -->
+- #63: Incomplete State Clean-up During Emergency Circuit Breaker Rollbacks
+
+<!-- handsoff-issue-64 -->
+- #64: Silent Payout Loss in `reveal_confidential_payment` Due to Omission of Shard Storage
